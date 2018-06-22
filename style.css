@@ -1,0 +1,104 @@
+html {
+
+}
+
+
+body {
+    background-color: #cbd0d4de
+   
+}
+
+header {
+
+}
+
+nav {
+    /* background-color: #4aaaa5; */
+}
+
+.container {
+    background-color: white;
+    
+}
+
+.subtitleheader {
+   
+}
+
+
+.subtitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom: 2.5px solid #cccccccc;
+    padding-top: 15px;
+    /* font-size: 16pt; */
+}
+
+#profilepic {
+    margin-bottom: 15px;
+}
+
+
+#aboutmetext {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 25px 25px 25px;
+
+}
+
+
+footer {
+    background-color: #666666;
+    border-top: 10px solid #4aaaa5;
+
+}
+
+
+
+
+#namefield {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    border-width: thin;
+    border-color: silver;
+    border-style: solid;
+    padding-left: 10px; 
+    max-height: 25px;
+    resize: none;
+    overflow: auto;
+    width: 899px;
+
+
+}
+
+#emailfield {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    border-width: thin;
+    border-color: silver;
+    border-style: solid;
+    padding-left: 10px; 
+    max-height: 25px;
+    resize: none;
+    overflow: auto;
+    width: 899px;
+
+}
+
+#messagetext {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    border-width: thin;
+    border-color: silver;
+    border-style: solid;
+    padding-left: 10px;
+    min-width: 899px;;
+    max-width: 899px;
+    min-height: 75px;
+    max-height: 200px;
+    overflow: auto;
+
+}
